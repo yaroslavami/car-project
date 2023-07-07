@@ -1,0 +1,35 @@
+* {
+    box-sizing: border-box;
+}
+header{
+    position: fixed;
+}
+h1{
+    color: black;
+    margin-top: 120px;
+    margin-left: 830px;
+    font-style: italic;
+}
+.descrip{
+    margin-top: -170px;
+    margin-left:1000px;
+}
+body {
+    padding-top: 68px;
+}
+
+section{
+    align-content: center;
+    background-position: 20% 50%;
+    padding-top: 45px;
+    height: 900px;
+}
+.banner{
+    background-image: url("../images/women.jpg");
+    background-size:cover;
+    border-image-outset: 10px;
+    background-attachment: fixed;
+    background-position: center;
+}
+
+
